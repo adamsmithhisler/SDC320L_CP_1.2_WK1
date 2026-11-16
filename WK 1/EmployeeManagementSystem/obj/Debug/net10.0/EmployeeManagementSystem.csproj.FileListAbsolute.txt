@@ -1,0 +1,14 @@
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.exe
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.deps.json
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.runtimeconfig.json
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.dll
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.pdb
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfo.cs
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.dll
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\refint\EmployeeManagementSystem.dll
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.pdb
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.genruntimeconfig.cache
+D:\School\SDC320L\Final Project\WK 1\EmployeeManagementSystem\obj\Debug\net10.0\ref\EmployeeManagementSystem.dll
